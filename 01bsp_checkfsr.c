@@ -20,7 +20,7 @@ Load this program on your boards. The LEDs should start blinking furiously.
 
 uint8_t check_fsr_count;
 uint8_t ansum_count;
-uint8_t test;
+
 
 void some_delay(void);
 void init_all() {
